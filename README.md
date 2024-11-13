@@ -20,6 +20,10 @@ daphneインストール
 ```
 pip install daphne
 ```
+migration
+```
+python manage.py migrate
+```
 
 daphneでchat_projectを起動
 ```
