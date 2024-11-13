@@ -1,4 +1,4 @@
-git clone git@github.com:soma0822/chat_project.git
+git clone [git@github.com:soma0822/chat_project.git](https://github.com/soma0822/chat_project.git)
 
 cd chat_project
 
