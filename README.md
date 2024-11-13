@@ -11,7 +11,7 @@ redisをインストール
 brew install redis
 ```
 
-redisサーバーを起動
+redisサーバーを起動(別ターミナル上)
 ```
 redis-server
 ```
